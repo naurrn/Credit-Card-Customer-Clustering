@@ -123,7 +123,7 @@ def main():
             proyek ini digunakan murni untuk clustering/segmentasi perilaku (kolom churn tidak dipakai).
 
             Notebook lengkap proses Business Understanding hingga Evaluation tersedia
-            pada file `clustering_cc_crispdm.ipynb` pada repository proyek ini.
+            pada file `CreditCardCustomer_CRISP-DM.ipynb` pada repository proyek ini.
             """
         )
 
